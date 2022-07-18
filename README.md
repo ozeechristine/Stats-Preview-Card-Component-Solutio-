@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ozeechristine/Stats-Preview-Card-Component-Solution-)
-- Live Site URL: (https://ozeechristine.github.io/stats-preview-card-component-main/)
+- Live Site URL: (https://ozeechristine.github.io/Stats-Preview-Card-Component-Solution-/)
 
 
 ### Built with
