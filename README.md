@@ -34,5 +34,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ozeechristine)
+- Frontend Mentor - [@ozeechristine](https://www.frontendmentor.io/profile/ozeechristine)
 - Twitter - [@ozeechristine](https://www.twitter.com/ozeechristine)
